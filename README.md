@@ -1,6 +1,6 @@
 # Deep-Learning-Specialization
 
-This Repository contains Notebooks, slides, and my assignments for Deep Learning Specialization Course from Coursera.
+This Repository contains Notebooks, slides, and my assignments for [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) Course from Coursera.
 
 This repo is for my personal reference.
 
